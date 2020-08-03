@@ -64,8 +64,7 @@ namespace CircularLinkedListProject
                         list.DeleteNode(data);
                         break;
                     default:Console.WriteLine("Wrong choice");
-                        break;
-
+                        break
                 }
                 Console.WriteLine();
             }
